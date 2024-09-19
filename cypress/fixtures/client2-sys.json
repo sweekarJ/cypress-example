@@ -1,0 +1,7 @@
+{
+          "clientName": "Client2",
+          "environment": "sys",
+          "baseUrl": "https://client2-sys.example.com",
+          "username": "client2_user",
+          "password": "client2_password"
+        }
