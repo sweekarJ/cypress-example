@@ -1,0 +1,7 @@
+{
+          "clientName": "Client1",
+          "environment": "uat",
+          "baseUrl": "https://client1-uat.example.com",
+          "username": "client1_user",
+          "password": "client1_password"
+        }
